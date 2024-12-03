@@ -35,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 </div>
-###
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="Its_abhinavgautam" target="_blank">
