@@ -2,9 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I%27m+Abhinav+Singh!;">
 
-
-
-<img align="right" height="150" src="https://media.giphy.com/media/czyRCsoai6tZm/giphy.gif?cid=ecf05e47z8m6o20q8562exlpgctf4ge33zmb74xxup2n8f6x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <div>
 <h2 align="center"> Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> </h2> 
 <div align="center">
