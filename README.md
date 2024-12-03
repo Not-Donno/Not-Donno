@@ -6,9 +6,9 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/czyRCsoai6tZm/giphy.gif?cid=ecf05e47z8m6o20q8562exlpgctf4ge33zmb74xxup2n8f6x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
-
-<div align="left">
+<h2 align="center"> Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> </h2> 
+<h3 align="center">Connect with me:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
