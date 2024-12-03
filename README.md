@@ -1,5 +1,7 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="300" alt="animated hello">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I%27m+Abhinav+Singh!;">
-###
+
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/czyRCsoai6tZm/giphy.gif?cid=ecf05e47z8m6o20q8562exlpgctf4ge33zmb74xxup2n8f6x&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
